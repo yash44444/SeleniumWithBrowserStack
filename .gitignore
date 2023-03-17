@@ -1,0 +1,6 @@
+test-output/*
+pom.xml
+.project
+.classpath
+.settings
+target/*
