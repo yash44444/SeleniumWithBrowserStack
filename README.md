@@ -1,4 +1,4 @@
-# This mini project helps you in integrating your selenium porject with browser stack cloud based tool.
+# Integration of Selenium and Browserstack
 BrowserStack is a cloud-based cross-browser testing tool that allows developers and testers to test their web and mobile applications on a wide range of desktop and mobile browsers, operating systems, and real devices. It is a paid tool but very good tool. Alternatives: Saucelabs, lambdaTest, ChromeEmulator, Selenoid, selenium grid.
 
 You can select - 

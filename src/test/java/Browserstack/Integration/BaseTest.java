@@ -14,8 +14,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class BaseTest {
 	
 	WebDriver driver;
-	public static final String USERNAME = "yashverma_mF2Cry";
-	public static final String ACCESS_KEY = "GVm77NEgUqWHyTS8HVsp";
+	public static final String USERNAME = "";
+	public static final String ACCESS_KEY = "";
 	public static final String BROWSERSTACK_URL = "https://" + USERNAME + ":" + ACCESS_KEY + "@hub.browserstack.com/wd/hub";
 	
 	// Parameter values will come from testng file.
